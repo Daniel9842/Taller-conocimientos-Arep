@@ -83,7 +83,7 @@ public class SocketConnectionService {
 				+ "<html>"
 				+ "<head>"
 				+ "<meta charset=\"UTF-8\">"
-				+ "<title>Title of the document</title>\n"
+				+ "<title>WeatherService</title>\n"
 				+ "</head>"
 				+ "<body>"
 				+ jsonWeather.getDataService()
