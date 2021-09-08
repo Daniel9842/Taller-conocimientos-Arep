@@ -1,6 +1,6 @@
 package edu.escuelaing.arep.weatherService;
 
-public class weatherService{
+public class WeatherService{
 	
 	private String cityDefaultWS = "London";
 	
