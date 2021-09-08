@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.weatherService;
+package edu.escuelaing.arep;
 
 public class WeatherService{
 	
