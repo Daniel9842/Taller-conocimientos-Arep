@@ -33,3 +33,7 @@ Entregue todo en GIT HUB y el enlace a Heroku.
 
 JSON
 https://www.w3schools.com/js/js_json_syntax.asp
+
+## Ejecución localmente
+
+![image local](image/local.PNG "weather")<br>
