@@ -2,7 +2,9 @@
 ### Daniel Santiago Ducuara Ardila
 ### 08/09/2021
 
-## Parcial
+## Parcial Heroku
+
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://arepconocimientosparcial.herokuapp.com/)
 
 ### REQUERIMIENTOS
 Su compañía lo ha seleccionado para construir una aplicación web simple desplegada en Heroku para uno de los clientes más importantes.
