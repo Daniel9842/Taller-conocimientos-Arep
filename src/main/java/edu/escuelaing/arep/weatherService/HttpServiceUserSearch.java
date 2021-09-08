@@ -35,4 +35,7 @@ public class HttpServiceUserSearch {
 	    	weatherAPI.setcityDWS(cityDWS);
 	    }
 	    
+	    public String getUrlWS() {
+	    	return weatherAPI.getUrlWS();
+	    }
 }
